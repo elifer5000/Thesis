@@ -7,3 +7,5 @@ Extension of work done by [M. Khokhlov](http://tx.technion.ac.il/~gordoncn/publi
 This is a .NET project that uses [Emgu (OpenCV in .NET)](http://www.emgu.com/wiki/index.php/Main_Page) for cross-correlation calculations and [OpenTK (C# wrapper for OpenGL)](https://github.com/opentk/opentk) for visualizations.
 
 It takes as input 2 images that are taken from the same microscopic sample, with slightly different angle, and reconstructs a 2.5D map of the surface. One of the images is used as a texture for the resulting surface.
+
+![pic](screenshot.png)
