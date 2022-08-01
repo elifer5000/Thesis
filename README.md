@@ -1,4 +1,4 @@
-# Thesis
+# Thesis (2012)
 
 ### Multi-picture and multi-scale 3D reconstruction of fracture surfaces using Stereo-Photogrammetry
 
